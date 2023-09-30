@@ -1,0 +1,30 @@
+{
+
+  "item.torchoftech.azurite": "Azurite",
+  "item.torchoftech.malachite": "Malachite",
+  "item.torchoftech.chalcocite": "Chalcocite",
+  "item.torchoftech.charcoal_campfire": "Charcoal Campfire",
+  "item.torchoftech.sod": "Sod",
+
+
+  "item.torchoftech.azurite_fragment": "Azurite Fragment",
+  "item.torchoftech.malachite_fragment": "Malachite Fragment",
+  "item.torchoftech.chalcocite_fragment": "Chalcocite Fragment",
+
+
+  "block.torchoftech.azurite": "Azurite",
+  "block.torchoftech.malachite": "Malachite",
+  "block.torchoftech.chalcocite": "Chalcocite",
+  "block.torchoftech.charcoal_campfire": "Charcoal Campfire",
+  "block.torchoftech.sod": "Sod",
+
+
+  "itemGroup.torchoftech.tot_blocks": "Torch of Tech : Blocks",
+  "itemGroup.torchoftech.tot_misc": "Torch of Tech : Misc",
+
+
+
+  "tooltip.copper_density": "Copper content",
+  "tooltip.no_copper": "No Copper",
+  "tooltip.no_content": "No Content"
+}

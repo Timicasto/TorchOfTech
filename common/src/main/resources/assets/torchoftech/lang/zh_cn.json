@@ -1,0 +1,20 @@
+{
+  "item.torchoftech.azurite": "蓝铜矿",
+  "block.torchoftech.azurite": "蓝铜矿",
+  "item.torchoftech.azurite_fragment": "蓝铜矿碎块",
+  "itemGroup.torchoftech.tot_blocks": "Torch of Tech : 方块",
+  "itemGroup.torchoftech.tot_misc": "Torch of Tech : 杂项与材料",
+  "item.torchoftech.malachite": "孔雀石",
+  "item.torchoftech.chalcocite": "辉铜矿",
+  "item.torchoftech.malachite_fragment": "孔雀石碎块",
+  "item.torchoftech.chalcocite_fragment": "辉铜碎块",
+  "block.torchoftech.malachite": "孔雀石",
+  "block.torchoftech.chalcocite": "辉铜矿",
+  "tooltip.copper_density": "含铜",
+  "tooltip.no_copper": "无含铜",
+  "item.torchoftech.charcoal_campfire": "木炭火堆",
+  "item.torchoftech.sod": "草皮",
+  "block.torchoftech.charcoal_campfire": "木炭火堆",
+  "block.torchoftech.sod": "草皮",
+  "tooltip.no_content": "无内容"
+}
