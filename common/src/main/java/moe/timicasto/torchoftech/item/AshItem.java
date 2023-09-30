@@ -28,17 +28,4 @@ public class AshItem extends Item {
 			tooltipComponents.add(new TextComponent(I18n.get("tooltip.no_content")));
 		}
 	}*/
-
-	@Override
-	public boolean hasCustomEntity(ItemStack stack) {
-		return true;
-	}
-
-	@Nullable
-	@Override
-	public Entity createEntity(Level level, Entity location, ItemStack stack) {
-		AshEntity e = new AshEntity(level, location.getX(), location.getY(), location.getZ(), stack);
-		e.setPickUpDelay(40);
-		return e;
-	}
 }
